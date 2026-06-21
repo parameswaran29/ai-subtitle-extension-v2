@@ -1,0 +1,14 @@
+# Backend (Spring Boot) ignores
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/logs/
+
+# IDE ignores
+.idea/
+.vscode/
+*.iml
+*.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
